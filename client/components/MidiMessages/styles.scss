@@ -1,0 +1,9 @@
+.MidiMessages {
+  width: 150px;
+  margin: 0 auto;
+  &__Value {
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+  }
+}
