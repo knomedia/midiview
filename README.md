@@ -2,7 +2,7 @@
 
 simple electron app for viewing midi commands
 
-![screen shot](https://raw.githubusercontent.com/knomedia/midiview/master/assets/screen.png)
+![screen shot](/assets/screen.png?raw=true)
 
 ## notes
 
